@@ -275,3 +275,4 @@ C:\Users\rehan\OneDrive\Desktop\projects\TodoApi\obj\Release\net8.0\refint\TodoA
 C:\Users\rehan\OneDrive\Desktop\projects\TodoApi\obj\Release\net8.0\TodoApi.pdb
 C:\Users\rehan\OneDrive\Desktop\projects\TodoApi\obj\Release\net8.0\TodoApi.genruntimeconfig.cache
 C:\Users\rehan\OneDrive\Desktop\projects\TodoApi\obj\Release\net8.0\ref\TodoApi.dll
+C:\Users\rehan\OneDrive\Desktop\projects\TodoApi\obj\Release\net8.0\TodoApi.sourcelink.json
